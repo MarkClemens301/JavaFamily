@@ -24,8 +24,8 @@
 </p>
 
 
-![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg)
+<!-- ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg) -->
+<!-- ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg) -->
 
 [后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
 
@@ -52,7 +52,7 @@
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
-  
+
 - 集合框架
 
   - [HashMap](https://mp.weixin.qq.com/s/0Gf2DzuzgEx0i3mHVvhKNQ)
@@ -65,7 +65,7 @@
   - [全网最透彻HTTPS（面试常问）](https://mp.weixin.qq.com/s/21JaXwdfSjItj5SgOwhapg)
   - [枚举](https://mp.weixin.qq.com/s/U5FkL9zyzr0PkAp8MJJ8BQ)
   - [我就知道面试官接下来要问我 ConcurrentHashMap 底层原理了](https://mp.weixin.qq.com/s/My4P_BBXDnAGX1gh630ZKw)
-  
+
 - 深入浅出JVM
 
   - JVM内存模型
@@ -93,7 +93,7 @@
   - [终于有人把 CountDownLatch，CyclicBarrier，Semaphore 说明白了!](https://mp.weixin.qq.com/s/TDw7GnzDw5FK3RWwkIzzZA)
   - [面试官想到，一个Volatile，敖丙都能吹半小时](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
   - [记一次线程池引发的故障 排查下来是三歪的锅](https://mp.weixin.qq.com/s/TQGtNpPiTypeKd5kUnfxEw)
-  
+
 - 常用工具集
 
   - JVM问题排查工具-JMC
@@ -103,14 +103,14 @@
   - Linux常用分析工具
   - [怎么排查堆内存溢出啊？](https://mp.weixin.qq.com/s/7XGD-Z3wrThv5HyoK3B8AQ)
   - [CPU100%，排查](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
-  
+
 - 数据结构与算法
 
   - 从二叉搜索树到B+树
   - 经典问题之字符串
   - 经典问题之TOPK
   - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
-  
+
 - 必会框架
 
   - Spring全家桶以及源码分析
@@ -128,7 +128,7 @@
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   - [分布式锁之Zookeeper](https://mp.weixin.qq.com/s/ZqQHWLfVD1Rz1agmH3LWrg)
   - [Zookeeper之ZAB协议](https://mp.weixin.qq.com/s/k0zAExTvMsrugCaNJxs7hQ)
-  
+
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
   - [敖丙在蘑菇街的redis技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
@@ -150,9 +150,9 @@
   - [Redis—5种基本数据结构](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
   - [Redis—持久化](https://mp.weixin.qq.com/s/O_qDco6-Dasu3RomWIK_Ig)
   - [Reids—神奇的HyperLoglog解决统计问题](https://mp.weixin.qq.com/s/9dtGe3d_mbbxW5FpVPDNow)
-  - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
+  - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg)
   - [妈妈再也不担心我面试被Redis问得脸都绿了](https://mp.weixin.qq.com/s/vXBFscXqDcXS_VaIERplMQ)
-  
+
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
   - [消息队列基础知识](https://mp.weixin.qq.com/s/Qhw4oS0OeN1N7uT1z6rbqg)
@@ -175,7 +175,7 @@
   - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
   - [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](https://mp.weixin.qq.com/s/L0XUMHInnwN9gSYGH2nzdg)
-  
+
 - 大数据
 
   - ODPS离线分析
@@ -184,7 +184,7 @@
   - Hadoop
   - Hbase
   - HDFS
-  
+
 - 搜索引擎
 
   - ElasticSearch
@@ -192,12 +192,12 @@
   - Kibana
   - Lucene
   - Logstash
-  
+
 - 优秀开源框架推荐
 
   - [阿里巴巴开源限流系统 Sentinel 全解析](https://mp.weixin.qq.com/s/NgS9tL4IVwGZrssz7fURpA)
   - [支付宝的架构到底有多牛逼？还没看完我就跪了！](https://mp.weixin.qq.com/s/d4K9hJHzZ5IAd2aarsdQrw)
-  
+
 - 架构演进之路
 
   - 从All in one 到微服务
@@ -219,15 +219,15 @@
   - [自我介绍](https://mp.weixin.qq.com/s/br7Ak88kA5GkZ26hxwKUiw)
   - [互联网公司面试流程 注意事项 加分点 防骗指南](https://mp.weixin.qq.com/s/jhmpG2bBb4aXoUJzahC0Rg)
   - [互联网公司面试流程&加分点，别跟敖丙一样被无良HR坑了](https://mp.weixin.qq.com/s/7Rq8QR58Adi5WGHRlnhDeQ)
-  
+
 - 研发规范
 
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
-  
+
 - 面试真题&面经分享
-    
+
   - [被裁一个月面试的面经和经验分享](https://mp.weixin.qq.com/s/MkjSYc0JA1-VErX3lJzPmQ)  
   - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)  
   - [二本 两年经验读者 阿里P6面经](https://mp.weixin.qq.com/s/WOS6HMdt1-mAGuLiC30_-Q)
@@ -250,9 +250,9 @@
   - [Java后端实习面经，电子科大大三读者投稿！看了之后感触颇深！很开心！](https://mp.weixin.qq.com/s/ttKI82_CQdMmxoBw8TS92g)
   - [敖丙读者只复习了半年，怒拿字节跳动Offer](https://mp.weixin.qq.com/s/g6qFbEWfJeahzuzjECuvDg)
   - [敖丙读者一个月面试近20家大中小厂，在互联网寒冬突破重围，成功上岸阿里云 ！](https://mp.weixin.qq.com/s/F2TiFw-LYFXMRj_hsD-TIw)
-  
+
 - 程序人生系列
-  
+
   - [读研or工作？](https://mp.weixin.qq.com/s/Sn7_FcNW7Sq3WVm_LgwVrA)
   - [人生如水，由溪入海](https://mp.weixin.qq.com/s/417im7XPERSMzGiHnNaiEQ)
   - [提离职，涨薪 走，别回头](https://mp.weixin.qq.com/s/1rUYxXbb0PaVOkmDQAxHpg)
@@ -273,9 +273,9 @@
   - [【相亲】95年高颜值妹子，喜欢上进的男生](https://mp.weixin.qq.com/s/LCaZQAVL1DnihhngZ3Wq0w)
   - [我的青春结束了](https://mp.weixin.qq.com/s/matyTWXuZ_qs9hGfAl9_NQ)
   - [时间刺客--敖丙](https://mp.weixin.qq.com/s/wlfurOBpxeaf6iy7CtHRlA)
-  
+
 - 日常生活
-  
+
   - [敖丙参加了一场温州游资的婚礼](https://mp.weixin.qq.com/s/sM3hJe5z3_pCH-8GWs0iOA)
   - [敖丙枯燥无味的假期，一直在吃狗粮](https://mp.weixin.qq.com/s/1jQnRCXdrUQzZInQmzABvA)
   - [送别了好友，敖丙跟你聊聊【离职】这个话题](https://mp.weixin.qq.com/s/pHcgkDvKfElRIVZGd4Kzng)
@@ -285,7 +285,7 @@
   - [敖丙我写了一个新手都写不出的低级bug，被骂惨了。](https://mp.weixin.qq.com/s/yB9s771gDz6oMKZsUnJuyg)
   - [敖丙的第一次相亲，还没开始，就已经结束了。](https://mp.weixin.qq.com/s/mLLbpnI1pVnlUzL7H3EuNQ)
   - [我的母亲](https://mp.weixin.qq.com/s/yGcgvp9s18CERp9nx2iigw)
-  
+
 - 过年特辑
 
   - [贵州打工仔回家过年，遭遇流感，被隔离，偶遇读者，偶遇直播同行...](https://mp.weixin.qq.com/s/MXSWBVQyVD4OW0tjy5UO8Q)
@@ -293,7 +293,7 @@
   - [书房翻杂物，看到初恋的信件，看到奖牌，看到梅西、力宏，帅丙的眼角又湿了.....](https://mp.weixin.qq.com/s/VECNJbVV0Bz8PKlG8pYwVw)
   - [疫情之下，从一座空城，到另一座空城，贵州小伙带你看不一样的杭州](https://mp.weixin.qq.com/s/8blBtbBLJtVvpnrJ7tmh_g)
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
-  
+
 - **福利**
 
     - [Java/后端学习路线](https://mp.weixin.qq.com/s/5QpuDtXAalR-pz59B5t27g)
@@ -306,7 +306,7 @@
     - [面试资料(持续更新)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [简历模板(欢迎补充)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
- 
+
 
 
 
@@ -396,7 +396,7 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com           
 
-字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
+字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com
 
 
 ### 近期机会
@@ -521,5 +521,5 @@ CSDN：https://blog.csdn.net/qq_35190492
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1ge4xvdlh0wj30zk0d1q6d.jpg)
 
   <a name="微信"></a>  <a name="公众号"></a>
-  
+
  ![](https://tva1.sinaimg.cn/large/00831rSTly1gck2pplt8ej315u0u0k1b.jpg)
